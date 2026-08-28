@@ -1,0 +1,24 @@
+{
+  "title": "Evolving Research Institutions: Scaling Verified Discovery with Millions of Ephemeral AI Agents",
+  "description": "An open research proposal for multi-level selection among durable AI research institutions, where independently reproduced knowledge funds future compute and population growth is gated by verification, diversity, and safety metrics.",
+  "creators": [
+    {
+      "name": "Weerda, Jochen",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "keywords": [
+    "multi-agent systems",
+    "AI agents",
+    "institutional evolution",
+    "collective intelligence",
+    "automated science",
+    "verification markets",
+    "compute allocation"
+  ],
+  "version": "0.1",
+  "publication_date": "2026-08-28"
+}
