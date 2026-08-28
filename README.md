@@ -51,6 +51,7 @@ This is a hypothesis to test, not a claim of proven novelty or superiority.
 - [Research proposal](PAPER.md)
 - [Citation metadata](CITATION.cff)
 - [Contribution guide](CONTRIBUTING.md)
+- [Version history](CHANGELOG.md)
 - [License](LICENSE)
 
 ## Proposed first experiment
@@ -61,7 +62,7 @@ The small pilot tests the mechanism. It does not redefine the intended scale.
 
 ## Status
 
-Version 0.1 is a conceptual, falsifiable research proposal. It includes no empirical performance claim and no autonomous deployment recommendation.
+Version 0.1 is a conceptual, falsifiable research proposal. It includes no empirical performance claim and no autonomous deployment recommendation. Independent critique, prior-art references, and replication proposals are invited in [the public v0.1 discussion](https://github.com/JochenWeerda/evolving-research-institutions/issues/1).
 
 ## Authorship and licensing
 
@@ -69,4 +70,3 @@ Concept and proposal: **Jochen Weerda**
 Initial public version: **28 August 2026**
 
 Text and diagrams are released under [Creative Commons Attribution 4.0 International](LICENSE). Future reference code should use Apache-2.0 unless stated otherwise.
-
