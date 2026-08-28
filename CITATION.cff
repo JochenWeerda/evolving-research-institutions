@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or discuss this proposal, please cite it."
+title: "Evolving Research Institutions: Scaling Verified Discovery with Millions of Ephemeral AI Agents"
+type: article
+authors:
+  - family-names: "Weerda"
+    given-names: "Jochen"
+date-released: 2026-08-28
+version: "0.1"
+license: "CC-BY-4.0"
+abstract: >-
+  An open research proposal for multi-level selection among durable AI research
+  institutions, where independently reproduced knowledge funds future compute
+  and population growth is gated by verification, diversity, and safety metrics.
+keywords:
+  - multi-agent systems
+  - AI agents
+  - institutional evolution
+  - collective intelligence
+  - automated science
+  - verification markets
+  - compute allocation
+
